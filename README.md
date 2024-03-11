@@ -5,12 +5,12 @@ This project demonstrates the implementation of the strategy design pattern in G
 
 ## Features
 
-- Implements the TextProcessor interface to define a standard way of handling text processing tasks.
+- Implements the `TextProcessor` interface to define a standard way of handling text processing tasks.
 - Provides concrete strategy implementations for:
     - Sorting (e.g., Bubble Sort, Insertion Sort)
     - Regular expression filtering
     - (You can add more strategies as needed)
-- Utilizes a TextProcessingContext to hold the chosen strategy and facilitates processing text based on the chosen strategy.
+- Utilizes a `TextProcessingContext` to hold the chosen strategy and facilitates processing text based on the chosen strategy.
 
 
 ## Getting Started:
